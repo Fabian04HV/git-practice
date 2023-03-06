@@ -1,1 +1,1 @@
-Das ist eine Test Änderung, um zu schauen, wie Git Push Befehle und Versionen funktionieren.
+Jetzt habe ich den ganzen Text entfernt und stattdessen diesen Text geschrieben.
