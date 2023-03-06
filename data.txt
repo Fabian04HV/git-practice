@@ -1,0 +1,3 @@
+Name: Fabian
+Age: 18
+Favorite Color: Blue
